@@ -16,6 +16,7 @@ import (
 
 type InterpretableDefinition struct {
 	CheckExpression string `json:"check_expr"`
+	CheckStatus     int    `json:"check_status"`
 	ModExpression   string `json:"mod_expr"`
 }
 

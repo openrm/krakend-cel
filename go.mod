@@ -12,7 +12,7 @@ require (
 	github.com/google/cel-go v0.5.1
 	github.com/json-iterator/go v0.0.0-20170829155851-36b14963da70
 	github.com/kisielk/gotool v1.0.0 // indirect
-	github.com/luraproject/lura v1.4.0 // indirect
+	github.com/luraproject/lura v1.4.0
 	github.com/mattn/go-isatty v0.0.3
 	github.com/ugorji/go v0.0.0-20180112141927-9831f2c3ac10
 	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
