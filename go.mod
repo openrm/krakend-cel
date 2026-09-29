@@ -1,4 +1,4 @@
-module github.com/krakend/krakend-cel/v2
+module github.com/openrm/krakend-cel/v2
 
 go 1.26.0
 
